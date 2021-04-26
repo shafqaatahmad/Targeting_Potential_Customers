@@ -22,7 +22,8 @@ Dataset is being explored,cleaned and prprocessed, finally three csv files are j
 5) Ada Boost
 
 Full working code in Python with detail comments and expalnation is uploaded. Finally best chosen model was improved using SMOTE and ROC curve is produced.
-The real challenge in the dataset is to tranfom list values like {'Tool','Men Care','Beauty Products'} to dummy variables.
+The real challenge in the dataset is to tranfom list values like ['tools', 'makeup', 'foot', 'nail'] to dummy variables.
+Provided code has full description about each step.
 
 
 
